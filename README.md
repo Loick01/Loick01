@@ -15,21 +15,21 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Loick01/Atlacp">
-        <img src="./img/atlacp.png" height="250"/>
+        <img src="./img/atlacp.png" height="200"/>
       </a>
       <br>
       <strong>C++ SDL 2D Engine (WIP)</strong>
     </td>
     <td align="center">
       <a href="https://github.com/Loick01/Projet-Moteur-de-jeux">
-        <img src="./img/voxel_engine.png" height="250"/>
+        <img src="./img/voxel_engine.png" height="200"/>
       </a>
       <br>
       <strong>OpenGL Voxel Engine</strong>
     </td>
     <td align="center">
       <a href="https://github.com/Loick01/MiniRPG-OCaml">
-        <img src="./img/rpg_ocaml.png" height="250"/>
+        <img src="./img/rpg_ocaml.png" height="200"/>
       </a>
       <br>
       <strong>OCaml 2D RPG</strong>
@@ -40,14 +40,14 @@
   <tr>
     <td align="center">
       <a href="https://github.com/bserva34/Projet_Image_SERVA_KERBAUL_BELOT">
-        <img src="./img/squirrel.png" height="250"/>
+        <img src="./img/squirrel.png" height="200"/>
       </a>
       <br>
       <strong>Image & Video Mosaic Generator</strong>
     </td>
     <td align="center">
       <a href="https://github.com/louis-jean0/OceanGL">
-        <img src="./img/oceangl.png" height="250"/>
+        <img src="./img/oceangl.png" height="200"/>
       </a>
       <br>
       <strong>Real-time Realistic Ocean Simulation</strong>
