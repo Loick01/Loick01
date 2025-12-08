@@ -15,14 +15,14 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Loick01/Atlacp">
-        <img src="./img/atlacp.png" height="200"/>
+        <img src="./img/atlacp.gif" height="200"/>
       </a>
       <br>
       <strong>C++ SDL 2D Engine (WIP)</strong>
     </td>
     <td align="center">
       <a href="https://github.com/Loick01/Projet-Moteur-de-jeux">
-        <img src="./img/voxel_engine.png" height="200"/>
+        <img src="./img/voxel.gif" height="200"/>
       </a>
       <br>
       <strong>OpenGL Voxel Engine</strong>
