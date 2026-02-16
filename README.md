@@ -28,11 +28,11 @@
       <strong>OpenGL Voxel Engine</strong>
     </td>
     <td align="center">
-      <a href="https://github.com/Loick01/MiniRPG-OCaml">
-        <img src="./img/rpg_ocaml.png" height="200"/>
+      <a href="https://github.com/Loick01/CellAuto">
+        <img src="./img/cellauto.gif" height="200"/>
       </a>
       <br>
-      <strong>OCaml 2D RPG</strong>
+      <strong>Cellular Automata Visualization (WIP)</strong>
     </td>
   </tr>
 </table>
@@ -51,6 +51,13 @@
       </a>
       <br>
       <strong>Real-time Realistic Ocean Simulation</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Loick01/MiniRPG-OCaml">
+        <img src="./img/rpg_ocaml.png" height="200"/>
+      </a>
+      <br>
+      <strong>OCaml 2D RPG</strong>
     </td>
   </tr>
 </table>
