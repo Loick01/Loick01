@@ -18,7 +18,7 @@
         <img src="./img/atlacp.gif" height="200"/>
       </a>
       <br>
-      <strong>C++ SDL 2D Engine (WIP)</strong>
+      <strong>Atlacp - C++ SDL 2D Engine (WIP)</strong>
     </td>
     <td align="center">
       <a href="https://github.com/Loick01/Projet-Moteur-de-jeux">
@@ -32,11 +32,10 @@
         <img src="./img/cellauto.gif" height="200"/>
       </a>
       <br>
-      <strong>Cellular Automata Visualization (WIP)</strong>
+      <strong>CellAuto Visualization (WIP)</strong>
     </td>
   </tr>
-</table>
-<table align="center">
+
   <tr>
     <td align="center">
       <a href="https://github.com/bserva34/Projet_Image_SERVA_KERBAUL_BELOT">
@@ -50,8 +49,18 @@
         <img src="./img/oceangl.png" height="200"/>
       </a>
       <br>
-      <strong>Real-time Realistic Ocean Simulation</strong>
+      <strong>Real-time Ocean Simulation</strong>
     </td>
+    <td align="center">
+      <a href="https://github.com/Loick01/LearnOpenGL">
+        <img src="./img/learnopengl.gif" height="200"/>
+      </a>
+      <br>
+      <strong>LearnOpenGL tutorial (WIP)</strong>
+    </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://github.com/Loick01/MiniRPG-OCaml">
         <img src="./img/rpg_ocaml.png" height="200"/>
@@ -60,6 +69,7 @@
       <strong>OCaml 2D RPG</strong>
     </td>
   </tr>
+  
 </table>
 
 ## 💬 Connect with me
