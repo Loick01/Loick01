@@ -32,17 +32,17 @@
         <img src="./img/cellauto.gif" height="200"/>
       </a>
       <br>
-      <strong>CellAuto Visualization (WIP)</strong>
+      <strong>CellAuto Visualization</strong>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <a href="https://github.com/bserva34/Projet_Image_SERVA_KERBAUL_BELOT">
-        <img src="./img/squirrel.png" height="200"/>
+      <a href="https://github.com/Loick01/AnimLab">
+        <img src="./img/animlab.gif" height="200"/>
       </a>
       <br>
-      <strong>Image & Video Mosaic Generator</strong>
+      <strong>AnimLab - C++ SFML (WIP)</strong>
     </td>
     <td align="center">
       <a href="https://github.com/louis-jean0/OceanGL">
@@ -67,6 +67,13 @@
       </a>
       <br>
       <strong>OCaml 2D RPG</strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bserva34/Projet_Image_SERVA_KERBAUL_BELOT">
+        <img src="./img/squirrel.png" height="200"/>
+      </a>
+      <br>
+      <strong>Image & Video Mosaic Generator</strong>
     </td>
   </tr>
   
