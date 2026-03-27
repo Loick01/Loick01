@@ -61,6 +61,7 @@
   </tr>
 
   <tr>
+    <!--
     <td align="center">
       <a href="https://github.com/Loick01/MiniRPG-OCaml">
         <img src="./img/rpg_ocaml.png" height="200"/>
@@ -68,6 +69,7 @@
       <br>
       <strong>OCaml 2D RPG</strong>
     </td>
+    -->
     <td align="center">
       <a href="https://github.com/bserva34/Projet_Image_SERVA_KERBAUL_BELOT">
         <img src="./img/squirrel.png" height="200"/>
