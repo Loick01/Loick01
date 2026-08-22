@@ -6,6 +6,62 @@
 - <strong>I’m passionate about video games and always curious to understand how they work</strong>
 - <strong>Always looking to learn new programming skills</strong>
 
+## 🛠️ Languages and tools
+
+<p> 
+  <a href="https://www.c-language.org/"> 
+    <img src="./img/c.png" height="50"> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/">
+    <img src="./img/cpp.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="./img/cs.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/">
+    <img src="./img/python.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/en/">
+    <img src="./img/java.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/">
+    <img src="./img/git.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://unity.com/en">
+    <img src="./img/unity.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.opengl.org/">
+    <img src="./img/opengl.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.libsdl.org/">
+    <img src="./img/sdl.png" height="50">
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.sfml-dev.org/">
+    <img src="./img/sfml.png" height="50">
+  </a> 
+</p>
+
+## 💬 Connect with me
+
+<p> 
+  <a href="https://www.linkedin.com/in/loic-kerbaul"> 
+    <img src="./img/linkedin.png" height="50"> 
+  </a> 
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:loicker89@gmail.com">
+    <img src="./img/gmail.png" height="50">
+  </a> 
+</p>
+
 ## 🗃️ My projects
 
 <strong>Feel free to dive into my projects and see what I've worked on (click on the examples below to visit my GitHub repositories) :</strong>
@@ -80,16 +136,4 @@
   </tr>
   
 </table>
-
-## 💬 Connect with me
-
-<p> 
-  <a href="https://www.linkedin.com/in/loic-kerbaul"> 
-    <img src="./img/linkedin.png" width="40"> 
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:loicker89@gmail.com">
-    <img src="./img/gmail.png" width="40">
-  </a> 
-</p>
 
