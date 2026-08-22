@@ -128,7 +128,7 @@
     -->
     <td align="center">
       <a href="https://github.com/bserva34/Projet_Image_SERVA_KERBAUL_BELOT">
-        <img src="./img/squirrel.png" height="200"/>
+        <img src="./img/btf.gif" height="200"/>
       </a>
       <br>
       <strong>Image & Video Mosaic Generator</strong>
